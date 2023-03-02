@@ -1,13 +1,6 @@
 > #### 🚀 Versión actual: 1.4.5
 
 
-  
-
-<p align="center">
-<img src="https://i.imgur.com/WwxBm8o.jpg" alt="ANANAI-BOT-MD" width="900"/>
-</p>
-
--
 
 
 
