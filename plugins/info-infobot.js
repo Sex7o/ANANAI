@@ -50,7 +50,7 @@ let info = `
 ╭━━━━[ ${gt} ]━━━━━⬣
 ┃
 ┃➥ *CREADORA | CREATOR*
-┃ღ *𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨*
+┃ღ *ANANAI BOT*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃➥ *CONTACTO | CONTACT* 
 ┃ღ *${ig}*
