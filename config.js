@@ -26,8 +26,8 @@ global.prems = ['528451003894'],
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
-//Agrega el Idioma que quieres que tenga GataBot-MD
-//Add the language you want GataBot-MD to have
+//Agrega el Idioma que quieres que tenga ANANAI-BOT-MD 
+//Add the language you want ANANAI-BOT-MD to have
 //  es = Español         id = Bahasa Indonesia
 //  en = English         pt = Português 
 //  ar = عرب  
@@ -131,14 +131,14 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
 global.packname = 'ANANAI-BOT-MD'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.author = 'GERA'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = '1.4.5'
 global.vsJB = '2.0'
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.gt = 'ANANAIBOT-MD'
 global.yt = 'https://youtube.com/@gatadios'
 global.yt2 = 'https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s'
 global.ig = 'https://www.instagram.com/gata_dios'
@@ -146,7 +146,7 @@ global.md = 'https://github.com/GataNina-Li/GataBot-MD'
 global.fb = 'https://www.facebook.com/groups/872989990425789/'
 
 
-global.nna = 'https://chat.whatsapp.com/DVhu9S9Zr7cBFFl26N61U3' //UPDATE GATABOT
+global.nna = 'https://chat.whatsapp.com/DVhu9S9Zr7cBFFl26N61U3' //UPDATE ANANAI-BOT
 
 global.nn = 'https://chat.whatsapp.com/KwoMppqeh4lH27rNM4qEbz' //Grupo 1
 
@@ -200,8 +200,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.wm = 'ANANAIBOT : MD'
+global.igfg = 'ANANAI-BOT-MD'
 global.wait = '*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando | Charging..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*'
